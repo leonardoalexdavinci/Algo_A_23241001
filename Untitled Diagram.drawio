@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-09T02:07:01.384Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="DJOtGTrow0SWW5nIvueG" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-09T02:08:33.409Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="0vf9hBWbx2pAXWG_LEAg" version="22.0.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1114" dy="602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -49,7 +49,7 @@
         <mxCell id="3ySNIqeFnWk4-0a86qQe-8" value="penebak=angka" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="162.5" y="350" width="195" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3ySNIqeFnWk4-0a86qQe-15" value="jawaban benar" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="3ySNIqeFnWk4-0a86qQe-15" value="jika jawaban benar" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="440" y="360" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3ySNIqeFnWk4-0a86qQe-16" value="jika angka yang ditebak lebih besar maka mengatakan &#39;angkaku lebih kecil&#39;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
